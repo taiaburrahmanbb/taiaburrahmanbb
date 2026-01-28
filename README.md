@@ -6,17 +6,16 @@
 
 ## About Me
 
-I'm a Medical Imaging Specialist and AI Expert with a Master's degree in Medical Imaging and Applications (MAIA) from the Erasmus Mundus Joint Master's program. Currently, I'm working with [Blackbird.AI](https://blackbird.ai/), a leading Narrative & Risk Intelligence Platform that leverages AI to detect narrative attacks, misinformation, and provides comprehensive narrative intelligence solutions to protect organizations from harmful narratives.
+I'm a Medical Imaging Specialist, Computer Vision Engineer, and AI Expert with a Master's degree in Medical Imaging and Applications (MAIA) from the Erasmus Mundus Joint Master's program. Currently, I'm working with [Blackbird.AI](https://blackbird.ai/), a leading Narrative & Risk Intelligence Platform that leverages AI to detect narrative attacks, misinformation, and provides comprehensive narrative intelligence solutions to protect organizations from harmful narratives.
 
 ### What I Do at Blackbird.AI
 
-I develop machine learning models and build software modules. I turn ideas into working features by prototyping, integrating, and deploying technical tools end-to-end. My work spans the full development lifecycle—from ML model development and LLM fine-tuning to full-stack system integration.
-
-**My Superpower**: I execute technical builds fast—ML models, LLM fine-tuning, and software modules that integrate seamlessly into full-stack systems.
+I develop machine learning models and build software modules, turning ideas into working features through rapid prototyping, integration, and deployment. My work spans the full development lifecycle—from ML model development and LLM fine-tuning to full-stack system integration.
 
 ### Technical Proficiencies
 
 - **Machine Learning**: Classification, segmentation, registration, domain adaptation
+- **LLMs & Generative AI**: Fine-tuning, prompt engineering, RAG pipelines
 - **Computer Vision**: Advanced image processing pipelines and GPU workflows
 - **Data Engineering**: Data pipelines, preprocessing, and optimization
 - **Full-Stack Development**: End-to-end web application development
@@ -44,6 +43,9 @@ I develop machine learning models and build software modules. I turn ideas into 
 ### Machine Learning & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -54,12 +56,12 @@ I develop machine learning models and build software modules. I turn ideas into 
 
 ### Data & ML Platforms
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Wasabi](https://img.shields.io/badge/Wasabi-FF6600?style=for-the-badge&logo=wasabi&logoColor=white)
 
 ### Web Development
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTfulAPI-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
@@ -84,7 +86,7 @@ I develop machine learning models and build software modules. I turn ideas into 
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)
 
@@ -93,6 +95,18 @@ I develop machine learning models and build software modules. I turn ideas into 
 ## Languages
 
 🇬🇧 English | 🇧🇩 Bengali | 🇫🇷 French (beginner) | 🇨🇳 Chinese (basic academic)
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🔬 *Medical Image Segmentation* | Deep learning pipeline for anatomical structure segmentation | PyTorch, OpenCV |
+| 🤖 *Narrative Intelligence Module* | ML-based misinformation detection system | Python, Hugging Face |
+| 🌐 *Full-Stack Dashboard* | Real-time analytics visualization platform | Vue.js, FastAPI |
+
+> *Replace with your actual projects and add repository links*
 
 ---
 
@@ -117,4 +131,4 @@ I develop machine learning models and build software modules. I turn ideas into 
 
 - 🌐 **Portfolio**: [taiaburbd.github.io](https://taiaburbd.github.io/)
 - 💼 **LinkedIn**: [taiabur-rahman](https://www.linkedin.com/in/taiabur-rahman)
-- 🏢 ** GitHub**: [@taiaburrahmanbb](https://github.com/taiaburrahmanbb)
+- 🏢 **GitHub**: [@taiaburrahmanbb](https://github.com/taiaburrahmanbb)
