@@ -98,18 +98,6 @@ I develop machine learning models and build software modules, turning ideas into
 
 ---
 
-## Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔬 *Medical Image Segmentation* | Deep learning pipeline for anatomical structure segmentation | PyTorch, OpenCV |
-| 🤖 *Narrative Intelligence Module* | ML-based misinformation detection system | Python, Hugging Face |
-| 🌐 *Full-Stack Dashboard* | Real-time analytics visualization platform | Vue.js, FastAPI |
-
-> *Replace with your actual projects and add repository links*
-
----
-
 ## GitHub Statistics
 
 <p align="center">
